@@ -1,0 +1,32 @@
+body{
+    margin:0px;
+    text-align: center;
+    background-image: url(oycha.jpg);
+    background-size:cover;  
+}
+table,td,th{
+    border: 1px solid rgba(233, 200, 14, 0.295);
+    text-align: center;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    
+}
+th{
+    text-align: center;
+}
+.ramazon{
+    text-shadow: -6px -6px 12px black,8px 8px 16px black;
+}
+td,th{
+    height: 26px;
+}
+h1{
+    color: white;
+}
+.Ramazon{
+    text-shadow: -6px -6px 12px black,8px 8px 16px black;
+}
